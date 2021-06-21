@@ -1,4 +1,4 @@
 # bikes
 
 
-![Results](Resources/Number of bikes.PNG)
+![Results](Resources/Number of bikes.png)
