@@ -17,6 +17,17 @@ number of bike trips for every type of user and gender for each day of the week.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![Results](Resources/Number_of_bikes.png)
 
 ![Results](Resources/User_trips_by_gender_by_weekday.png)
